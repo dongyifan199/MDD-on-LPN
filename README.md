@@ -15,9 +15,11 @@ There are four object codes and executable programs: robot_mani.o, robot_mani, r
 
 Package
 -----
-These executable programs are required to be run in Linux under the operating environment of "Meddly". 
+These executable programs are required to be run in Ubuntu 16.04 under the operating environment of "Meddly". 
 This package could be obtained by "https://meddly.sourceforge.io/" with the licensed under the GNU Lesser General Public License Version 3.
 
 Environment
 -----
 Readers are required to download the package of "Meddly" and configure the environment locally under the guidence of this package.
+
+If the readers need the source code for more details of our work or just for compiling, please contact me by "dongyifan199@gmail.com".
