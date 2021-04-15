@@ -22,4 +22,4 @@ Environment
 -----
 Readers are required to download the package of "Meddly" and configure the environment locally under the guidence of this package.
 
-If the readers need the source code for more details of our work or just for compiling, please contact me by "dongyifan199@gmail.com".
+If readers need the source code for more details of our work or just for compiling, please contact me by "dongyifan199@gmail.com".
