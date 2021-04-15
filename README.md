@@ -2,7 +2,8 @@ MDD-on-LPN
 ====
 Intro
 ----
-There are four executable programs: robot_mani, robot_mani_cyclic, manu_sys_4_4, and  manu_sys_5_4.
+It is the test and replication for some experiments proposed in the paper "Symbolic Verification of Current-state Opacity of Discrete Event Systems Using Petri Nets".
+There are four executable programs: robot_mani, robot_mani_cyclic, manu_sys_4_4, and  manu_sys_5_4. 
 
 * "robot_mani" is the program for the discret event system "robot manipulation", which is a parameterized labeled Petri net (this model can be obtained by https://mcc.lip6.fr/pdf/RobotManipulation-form.pdf). Readers should input a parameter k, where k=1, 2, ..., 10.
 
