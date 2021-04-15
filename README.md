@@ -14,8 +14,9 @@ There are four executable programs: robot_mani, robot_mani_cyclic, manu_sys_4_4,
 
 Package
 -----
-These executable programs are required to be run in Linux under the operating environment of "Meddly". 
+    These executable programs are required to be run in Linux under the operating environment of "Meddly". 
+    This package could be obtained by "https://meddly.sourceforge.io/" with the licensed under the GNU Lesser General Public License Version 3.
 
-This package could be obtained by "https://meddly.sourceforge.io/" with the licensed under the GNU Lesser General Public License Version 3.
-
+Environment
+-----
 Readers are required to download the package of "Meddly" and configure the environment locally under the guidence of this package.
