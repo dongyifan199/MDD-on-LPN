@@ -3,7 +3,7 @@ MDD-on-LPN
 Intro
 ----
 It is the test and replication for some experiments proposed in the paper "Symbolic Verification of Current-state Opacity of Discrete Event Systems Using Petri Nets".
-There are four object codes and executable programs: robot_mani.o, robot_mani, robot_mani_cyclic.o, robot_mani_cyclic, manu_sys_4_4.o, manu_sys_4_4, and  manu_sys_5_4.o, manu_sys_5_4. 
+There are four object codes and executable programs, and a description of these two models: robot_mani.o, robot_mani, robot_mani_cyclic.o, robot_mani_cyclic, manu_sys_4_4.o, manu_sys_4_4, manu_sys_5_4.o, manu_sys_5_4, and "Realistic Cases for the Verification of Current-state Opacity.pdf". 
 
 * "robot_mani.o and robot_mani" are the programs for the discret event system "robot manipulation" that is a parameterized labeled Petri net (this model can be obtained by https://mcc.lip6.fr/pdf/RobotManipulation-form.pdf). Readers should input a parameter k, where k=1, 2, ..., 10.
 
@@ -12,6 +12,8 @@ There are four object codes and executable programs: robot_mani.o, robot_mani, r
 * "manu_sys_4_4.o and manu_sys_4_4" are the programs for the model of "parameterized manufacturing system", with the parameter beta=4 and eta=4.
 
 * "manu_sys_5_4.o and manu_sys_5_4" are the programs for the model of "parameterized manufacturing system", with the parameter beta=5 and eta=4.
+
+* "Realistic Cases for the Verification of Current-state Opacity.pdf" is the descriptions of two systems, namely, a robot manipulation system and a  manufacturing system.
 
 Package
 -----
