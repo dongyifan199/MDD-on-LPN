@@ -19,6 +19,8 @@ There are four object codes and executable programs, and three text files: robot
 
 * "Response letter for SMCA.pdf" shows our responses to the comments from the previous reviewers.
 
+* "Variable list.pdf" shows the list of symbols in our paper. 
+
 Package
 -----
 These executable programs are required to be run in Ubuntu 16.04 under the operating environment of "Meddly". 
